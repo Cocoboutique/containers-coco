@@ -1,0 +1,377 @@
+# Ce fichier viminfo a été généré par Vim 8.1.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Dernières chaînes de substitution :
+$
+
+# Historique ligne de commande (chronologie décroissante) :
+:q!
+|2,0,1632654096,,"q!"
+:wq
+|2,0,1632652724,,"wq"
+:qa!
+|2,0,1632259811,,"qa!"
+:pa!
+|2,0,1632253014,,"pa!"
+
+# Historique chaîne de recherche (chronologie décroissante) :
+? @$
+|2,1,1632249702,,"@$"
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique Ligne de débogage (chronologie décroissante) :
+
+# Registres :
+"0	LINE	0
+	       MYSQL_PASSWORD: "Cocoprodwp"
+|3,0,0,1,1,0,1632249702,"       MYSQL_PASSWORD: \"Cocoprodwp\""
+"1	LINE	0
+	    restart: always
+|3,0,1,1,1,0,1632253791,"    restart: always"
+"2	LINE	0
+	    image: mariadb:linux-arm
+|3,0,2,1,1,0,1632253790,"    image: mariadb:linux-arm"
+"3	LINE	0
+	  db:
+|3,0,3,1,1,0,1632253789,"  db:"
+"4	LINE	0
+	---- END SSH2 PUBLIC KEY ----
+|3,0,4,1,1,0,1632250635,"---- END SSH2 PUBLIC KEY ----"
+"5	LINE	0
+	78OWIac=
+|3,0,5,1,1,0,1632250634,"78OWIac="
+"6	LINE	0
+	DCFjX/plNVTOOOizV0e1txGjqywKTuk7KQc4JMew/NFkKUEe7CLKprMf6Hze0qAp
+|3,0,6,1,1,0,1632250634,"DCFjX/plNVTOOOizV0e1txGjqywKTuk7KQc4JMew/NFkKUEe7CLKprMf6Hze0qAp"
+"7	LINE	0
+	0kD3iK5lH8q4Y72iq7CSos8aA6mKOIpfKIO6N/y7xB1NirCJnwv+hva4OuTPvbX0
+|3,0,7,1,1,0,1632250633,"0kD3iK5lH8q4Y72iq7CSos8aA6mKOIpfKIO6N/y7xB1NirCJnwv+hva4OuTPvbX0"
+"8	LINE	0
+	V+vZDepP89SnVuNMxD8m9E2pcfzilEhcWKr+oJRO7F8ozJpSzuswnDc164zhdnc8
+|3,0,8,1,1,0,1632250633,"V+vZDepP89SnVuNMxD8m9E2pcfzilEhcWKr+oJRO7F8ozJpSzuswnDc164zhdnc8"
+"9	LINE	0
+	ALV2tSPGCPHHwVG9qHX0ULe8HP5XOLQFuT1bSSwVHapUyIynn4C4AkvtVHXci3JR
+|3,0,9,1,1,0,1632250632,"ALV2tSPGCPHHwVG9qHX0ULe8HP5XOLQFuT1bSSwVHapUyIynn4C4AkvtVHXci3JR"
+""-	CHAR	0
+	3
+|3,1,36,0,1,0,1632652709,"3"
+
+# Marques dans le fichier :
+'0  10  15  /data/.git/config
+|4,48,10,15,1632654096,"/data/.git/config"
+'1  10  15  /data/.git/config
+|4,49,10,15,1632653269,"/data/.git/config"
+'2  10  15  /data/.git/config
+|4,50,10,15,1632652724,"/data/.git/config"
+'3  10  15  /data/.git/config
+|4,51,10,15,1632652724,"/data/.git/config"
+'4  27  45  ~/nginx-proxy-manager/docker-compose.yml
+|4,52,27,45,1632648370,"~/nginx-proxy-manager/docker-compose.yml"
+'5  39  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,53,39,3,1632259811,"~/nginx-proxy-manager/docker-compose.yml"
+'6  39  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,54,39,3,1632259811,"~/nginx-proxy-manager/docker-compose.yml"
+'7  133  0  /data/www/wordpress/wp-config.php
+|4,55,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+'8  408  0  /data/www/wordpress/wp-admin/options.php
+|4,56,408,0,1632259061,"/data/www/wordpress/wp-admin/options.php"
+'9  27  27  ~/wordpress/docker-compose.yml
+|4,57,27,27,1632256334,"~/wordpress/docker-compose.yml"
+
+# Liste de sauts (le plus récent en premier) :
+-'  10  15  /data/.git/config
+|4,39,10,15,1632654096,"/data/.git/config"
+-'  10  15  /data/.git/config
+|4,39,10,15,1632653269,"/data/.git/config"
+-'  10  15  /data/.git/config
+|4,39,10,15,1632652724,"/data/.git/config"
+-'  1  0  /data/.git/config
+|4,39,1,0,1632652702,"/data/.git/config"
+-'  1  0  /data/.git/config
+|4,39,1,0,1632652702,"/data/.git/config"
+-'  1  0  /data/.git/config
+|4,39,1,0,1632652702,"/data/.git/config"
+-'  27  45  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,27,45,1632648370,"~/nginx-proxy-manager/docker-compose.yml"
+-'  27  45  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,27,45,1632648370,"~/nginx-proxy-manager/docker-compose.yml"
+-'  27  45  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,27,45,1632648370,"~/nginx-proxy-manager/docker-compose.yml"
+-'  27  45  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,27,45,1632648370,"~/nginx-proxy-manager/docker-compose.yml"
+-'  27  45  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,27,45,1632648370,"~/nginx-proxy-manager/docker-compose.yml"
+-'  27  45  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,27,45,1632648370,"~/nginx-proxy-manager/docker-compose.yml"
+-'  27  45  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,27,45,1632648370,"~/nginx-proxy-manager/docker-compose.yml"
+-'  27  45  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,27,45,1632648370,"~/nginx-proxy-manager/docker-compose.yml"
+-'  39  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,39,3,1632648332,"~/nginx-proxy-manager/docker-compose.yml"
+-'  39  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,39,3,1632648332,"~/nginx-proxy-manager/docker-compose.yml"
+-'  39  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,39,3,1632648332,"~/nginx-proxy-manager/docker-compose.yml"
+-'  39  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,39,3,1632648332,"~/nginx-proxy-manager/docker-compose.yml"
+-'  39  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,39,3,1632648332,"~/nginx-proxy-manager/docker-compose.yml"
+-'  39  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,39,3,1632648332,"~/nginx-proxy-manager/docker-compose.yml"
+-'  39  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,39,3,1632648332,"~/nginx-proxy-manager/docker-compose.yml"
+-'  39  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,39,3,1632648332,"~/nginx-proxy-manager/docker-compose.yml"
+-'  39  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,39,3,1632259811,"~/nginx-proxy-manager/docker-compose.yml"
+-'  39  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,39,3,1632259811,"~/nginx-proxy-manager/docker-compose.yml"
+-'  39  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,39,3,1632259811,"~/nginx-proxy-manager/docker-compose.yml"
+-'  39  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,39,3,1632259811,"~/nginx-proxy-manager/docker-compose.yml"
+-'  39  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,39,3,1632259811,"~/nginx-proxy-manager/docker-compose.yml"
+-'  39  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,39,3,1632259811,"~/nginx-proxy-manager/docker-compose.yml"
+-'  39  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,39,3,1632259811,"~/nginx-proxy-manager/docker-compose.yml"
+-'  39  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,39,3,1632259811,"~/nginx-proxy-manager/docker-compose.yml"
+-'  31  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,31,3,1632259617,"~/nginx-proxy-manager/docker-compose.yml"
+-'  31  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,31,3,1632259617,"~/nginx-proxy-manager/docker-compose.yml"
+-'  31  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,31,3,1632259617,"~/nginx-proxy-manager/docker-compose.yml"
+-'  31  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,31,3,1632259617,"~/nginx-proxy-manager/docker-compose.yml"
+-'  31  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,31,3,1632259617,"~/nginx-proxy-manager/docker-compose.yml"
+-'  31  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,31,3,1632259617,"~/nginx-proxy-manager/docker-compose.yml"
+-'  31  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,31,3,1632259617,"~/nginx-proxy-manager/docker-compose.yml"
+-'  31  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,31,3,1632259617,"~/nginx-proxy-manager/docker-compose.yml"
+-'  31  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,31,3,1632259617,"~/nginx-proxy-manager/docker-compose.yml"
+-'  31  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,31,3,1632259617,"~/nginx-proxy-manager/docker-compose.yml"
+-'  31  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,31,3,1632259617,"~/nginx-proxy-manager/docker-compose.yml"
+-'  31  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,31,3,1632259617,"~/nginx-proxy-manager/docker-compose.yml"
+-'  31  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,31,3,1632259617,"~/nginx-proxy-manager/docker-compose.yml"
+-'  31  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,31,3,1632259617,"~/nginx-proxy-manager/docker-compose.yml"
+-'  31  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,31,3,1632259617,"~/nginx-proxy-manager/docker-compose.yml"
+-'  31  3  ~/nginx-proxy-manager/docker-compose.yml
+|4,39,31,3,1632259617,"~/nginx-proxy-manager/docker-compose.yml"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  133  0  /data/www/wordpress/wp-config.php
+|4,39,133,0,1632259159,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+-'  1  0  /data/www/wordpress/wp-config.php
+|4,39,1,0,1632259097,"/data/www/wordpress/wp-config.php"
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> /data/.git/config
+	*	1632654096	0
+	"	10	15
+	^	10	16
+	.	7	33
+	+	7	33
+
+> ~/nginx-proxy-manager/docker-compose.yml
+	*	1632648363	0
+	"	27	45
+	^	27	46
+	.	27	33
+	+	31	97
+	+	31	4
+	+	26	8
+	+	27	33
+
+> /data/www/wordpress/wp-config.php
+	*	1632259156	0
+	"	133	0
+
+> /data/www/wordpress/wp-admin/options.php
+	*	1632259058	0
+	"	408	0
+
+> ~/wordpress/docker-compose.yml
+	*	1632256331	0
+	"	27	27
+	^	28	35
+	.	28	34
+	+	1	14
+	+	28	34
+
+> ~/Phpmyadmin/docker-compose.yml
+	*	1632253860	0
+	"	16	22
+	^	16	23
+	.	5	34
+	+	4	11
+	+	4	0
+	+	16	8
+	+	5	34
+	m	9	0
+
+> ~/Phpmyadmin/Docker-compose.yml
+	*	1632253294	0
+	"	16	22
+	^	8	35
+	.	8	34
+	+	16	22
+	+	8	27
+	+	9	0
+	+	8	37
+	+	8	35
+	+	16	22
+	+	8	34
+
+> ~/.ssh/authorized_keys
+	*	1632250649	0
+	"	3	739
+	^	3	740
+	.	3	739
+	+	1	737
+	+	2	461
+	+	2	0
+	+	3	0
+	+	2	0
+	+	3	28
+	+	3	0
+	+	2	0
+	+	3	739
+
+> ~/.bashrc
+	*	1631907610	0
+	"	91	0
+	.	91	0
+	+	91	0
+
+> ~/.bash
+	*	1631907596	0
+	"	1	0

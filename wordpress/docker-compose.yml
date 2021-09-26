@@ -1,0 +1,28 @@
+version: '3.3'
+
+services:
+   wordpress:
+     depends_on:
+       - db_wp
+     image: wordpress:latest
+     volumes:
+       - /data/www/wordpress:/var/www/html
+     ports:
+       - "8090:80"
+     restart: always
+     environment:
+       WORDPRESS_DB_HOST: "db_wp"
+       WORDPRESS_DB_USER: "prod_wp"
+       WORDPRESS_DB_PASSWORD: "Cocoprodwp"
+       WORDPRESS_DB_NAME: "db_cococm"
+
+   db_wp:
+     image: jc21/mariadb-aria:latest
+     volumes:
+       - /data/www/db:/var/lib/mysql
+     restart: always
+     environment:
+       MYSQL_ROOT_PASSWORD: "Cococmwp"
+       MYSQL_DATABASE: "db_cococm"
+       MYSQL_USER: "prod_wp"
+       MYSQL_PASSWORD: "Cocoprodwp"
